@@ -1,0 +1,16 @@
+{
+  "name": "facturactiva-webservice",
+  "version": "0.0.1",
+  "description": "Servicio web de prueba.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jean Reynoso",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+  }
+}
